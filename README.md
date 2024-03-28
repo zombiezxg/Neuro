@@ -1,9 +1,11 @@
 # Neuro 
 Valorant triggerbot using colors
 
+100% c#
+
 ![image](https://github.com/zombiezxg/Neuro/assets/58446966/ea6110fe-a9f0-4226-aa5a-8e3fb988468f)
 
-
+im to lazy to finish this
 
 # Features
 Triggerbot
