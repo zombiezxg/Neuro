@@ -11,6 +11,7 @@ im to lazy to finish this
 Triggerbot
 
 Allows users to adjust settings such as trigger sensitivity and delay
+
 spike timer (in progress)
 
 auto tap (in progress)
